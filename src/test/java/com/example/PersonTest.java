@@ -1,7 +1,8 @@
 package com.example;
 import com.example.model.Person;
-import com.jupiter.api.Test;
-import com.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
 public class PersonTest {
     @Test

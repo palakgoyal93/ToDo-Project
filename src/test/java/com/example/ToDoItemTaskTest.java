@@ -2,8 +2,9 @@ package com.example;
 import com.example.model.Person;
 import com.example.model.ToDoItem;
 import com.example.model.ToDoItemTask;
-import com.junit.jupiter.api.Assertions;
-import com.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
 
 import java.time.LocalDate;
 
